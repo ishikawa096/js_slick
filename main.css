@@ -1,0 +1,16 @@
+body {
+  background-color: #202020;
+  color: #fff;
+  padding: 0px 50px;
+}
+.slider {
+  position: relative;
+  max-width: 800px;
+}
+.slider img {
+  height: 500px;
+  object-fit: cover;
+}
+.slick-list {
+  overflow: hidden;
+}
